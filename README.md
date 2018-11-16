@@ -1,0 +1,2 @@
+# gomoku
+simple gomoku game
